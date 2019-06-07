@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "jest-haste-map": "^23.6.0",
     "jest-serializer": "^23.0.1",
     "jest-worker": "^23.2.0",
